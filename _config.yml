@@ -1,6 +1,4 @@
 title: Marc Feger
-logo: /assets/img/headshot_circle.png
 theme: jekyll-theme-minimal
-show_downloads: false
-is_project_page: false
-is_project_page: false
+logo: assets/img/headshot_circle.png
+description: I am a dedicated Data Scientist.

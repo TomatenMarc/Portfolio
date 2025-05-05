@@ -1,4 +1,4 @@
-# Applied Researcher
+# Portfolio
 
 ## Education
 Computer Science, PhD Candidate
