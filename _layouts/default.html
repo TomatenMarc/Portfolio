@@ -20,7 +20,8 @@
           <div style="text-align: center;">
               <img src="{{site.logo | relative_url}}" alt="Logo" class="logo"/>
               <h1>{{ site.title | default: site.github.repository_name }}</h1>
-              <p>{{ site.description | default: site.github.project_tagline }}</p>
+              <p><strong>{{ site.description | default: site.github.project_tagline }}</strong></p>
+              <p>📍 {{site.location}}</p>
               <div class="social-icons">
                   <a href="https://github.com/TomatenMarc" title="View my GitHub projects" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
                   <a href="https://linkedin.com/in/marc-feger" title="Visit my LinkedIn" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
