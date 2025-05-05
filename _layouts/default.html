@@ -11,25 +11,32 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
   </head>
   <body>
-    <div class="wrapper">
+  <div class="wrapper">
       <header>
-        <div style="text-align: center;">
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-          <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-        </div>
+          <div style="text-align: center;">
+              <img src="{{site.logo | relative_url}}" alt="Logo" class="logo"/>
+              <h1>{{ site.title | default: site.github.repository_name }}</h1>
+              <p>{{ site.description | default: site.github.project_tagline }}</p>
+              <div class="social-icons">
+                  <a href="https://github.com/TomatenMarc" title="View my GitHub projects" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
+                  <a href="https://linkedin.com/in/marc-feger" title="Visit my LinkedIn" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
+                  <a href="mailto:marc-feger@icloud.com?subject=Contact%20from%20Portfolio" title="Email me" target="_blank" rel="noopener"><i
+                          class="fa-regular fa-paper-plane"></i></a>
+              </div>
+          </div>
       </header>
       <section>
 
-      {{ content }}
+          {{ content }}
 
       </section>
-      <footer>
-        This is my footer
+      <footer style="text-align: center;">
       </footer>
-    </div>
+  </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
