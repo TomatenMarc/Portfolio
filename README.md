@@ -1,13 +1,14 @@
 ## 👋️ Profile
 
-I am a PhD candidate at Heinrich Heine University Düsseldorf (defense scheduled for late 2025) and a guest researcher at GESIS – Leibniz Institute for the Social Sciences.
+I am a PhD candidate at Heinrich Heine University Düsseldorf (defense scheduled for late 2025) and a guest researcher at GESIS – Leibniz 
+Institute for the Social Sciences.
 
 My research focuses on Natural Language Processing (NLP), Machine Learning (ML) and Large Language Models (LLMs), with a particular emphasis on 
 argument mining, social media analysis, and the development of LLMs capable of human-like reasoning, language understanding, and cross-domain generalization.
 
 In addition to my academic work, I actively contribute to the HeiCAD initiative “AI for All”, which is committed to accessible and inclusive education about Artificial Intelligence (AI) in general.
 
-Driven by a deep interest in language and communication, I have also been attending weekly Thai language classes since the start of my PhD.
+Driven by a deep interest in language, communication and culture, I have also been attending weekly Thai language classes since the start of my PhD.
 
 ---
 
@@ -48,68 +49,63 @@ Driven by a deep interest in language and communication, I have also been attend
 
 ## 🧪 Skills
 
-### **Languages & Scripting**
+### 💻 Programming Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)  
-<sub>Also worked with: JSON, YAML, NASM, Markdown</sub>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+<sub>Also worked with: Bash, C, C++, Java, JavaScript, JSON, NASM, Markdown</sub>
 
 ---
 
-### **Machine Learning & NLP**
+### 🤖 Machine Learning & NLP
+![Huggingface](https://img.shields.io/badge/Transformers-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-007ACC?style=flat&logo=semanticweb&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)  
-<sub>Additional tools: NLTK, Sentence Transformers, NumPy, pandas, RAG, LoRA, PEFT</sub>
+<sub>Also worked with: LangChain, LoRA, NLTK, NumPy, PEFT, RAG, pandas</sub>
 
 ---
 
-### **Frameworks & DevOps**
+### 🧰 Frameworks & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat&logo=githubactions&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 
 ---
 
-### **Databases & Search**
+### 🗃️ Databases & Search
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 
 ---
 
-### **Development Environment**
+### 🧱 Development Tools
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)  
-<sub>Shell tools: zsh, iTerm2, nano</sub>
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)  
+<sub>Also worked with: IntelliJ IDEA, iTerm2, nano, vim, zsh</sub>
 
 ---
 
-### **Package Managers**
+### 📦 Package Managers
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=flat&logo=python&logoColor=white)
 ![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat&logo=homebrew&logoColor=black)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 
 ---
 
-### **Operating Systems**
+### 💽 Operating Systems
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
@@ -128,7 +124,7 @@ Driven by a deep interest in language and communication, I have also been attend
 
 ## 📚 Publications
 
-### 🥇 Peer-Reviewed Publications (Top-Tier Conferences & Journals)
+### 🥇 Top-Tier Conferences & Journals
 - Feger, M., Boland, K., & Dietze, S. (2025). *Limited Generalizability in Argument Mining*. ACL 2025 (To be published).
 - Weber, S., Feger, M., & Pilgermann, M. (2024). [*A Unified Evaluation Approach for LLM Honeypots*](https://doi.org/10.1109/ACCESS.2024.3472460). IEEE Access.
 - Feger, M., & Dietze, S. (2024). [*BERTweet’s TACO Fiesta: Argument Mining on Twitter*](https://doi.org/10.18653/v1/2024.findings-naacl.146). NAACL 2024.
@@ -141,12 +137,45 @@ Driven by a deep interest in language and communication, I have also been attend
 - Feger, M., Steimann, J., & Meter, C. (2020). [*Structure or Content? Argument Relevance*](https://doi.org/10.3233/FAIA200505). COMMA 2020.
 
 ---
-## 💻 Selected GitHub Projects (WIP)
+## 💻 Selected GitHub Projects
 
-[![Instruction Tuning LLMs](https://gh-card.dev/repos/TomatenMarc/Instruction-Tuning-LLMs.svg)](https://github.com/TomatenMarc/Instruction-Tuning-LLMs)
+<div style="text-align: center; margin-bottom: 1.3em">
+  <a href="https://github.com/TomatenMarc/Instruction-Tuning-LLMs">
+    <img src="https://gh-card.dev/repos/TomatenMarc/Instruction-Tuning-LLMs.svg" />
+  </a>
+  <a href="https://github.com/TomatenMarc/TACO">
+    <img src="https://gh-card.dev/repos/TomatenMarc/TACO.svg" />
+  </a>
+  <a href="https://github.com/TomatenMarc/TACO-Fiesta">
+    <img src="https://gh-card.dev/repos/TomatenMarc/TACO-Fiesta.svg" />
+  </a>
+  <a href="https://github.com/TomatenMarc/The-Social-Network">
+    <img src="https://gh-card.dev/repos/TomatenMarc/The-Social-Network.svg" />
+  </a>
+  <a href="https://github.com/TomatenMarc/A-Social-Network">
+    <img src="https://gh-card.dev/repos/TomatenMarc/A-Social-Network.svg" />
+  </a>
+</div>
 
-## 💡 AI Education (WIP)
+---
 
-[![Watch on YouTube](https://img.youtube.com/vi/7-hP8FSIPLE/hqdefault.jpg)](https://www.youtube.com/watch?v=7-hP8FSIPLE)
+## 🎓✨ Featured AI Education Videos
 
-[![KI-Campus Course: Argument Mining](https://www.heicad.hhu.de/fileadmin/_processed_/f/7/csm_Vis1_1800x1200_4c4c3ec0f6.jpg)](https://moodle.ki-campus.org/course/view.php?id=99)
+### 🌱 **Machine Learning & Sustainability Tools**
+
+<div style="padding:56.25% 0 0 0;position:relative; text-align: center"><iframe src="https://player.vimeo.com/video/980543329?h=5501d3a2bc&amp;badge=0&amp;
+autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="05_05Transfer_Nachhaltigkeitstools"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+---
+
+### 🎥 **Watch More of my AI Learning Videos**
+
+- 🤖 [*Explainable, Hybrid, and Robust AI*](https://moodle.ki-campus.org/mod/page/view.php?id=16591)
+- 👩‍💻 [*Programming Neural Networks from Scratch*](https://www.youtube.com/watch?v=7-hP8FSIPLE)
+- 📝 [*Text Processing with Transformers*](https://www.youtube.com/watch?v=wYVeXXVtSQ8)
+- 🖼️ [*Image Processing with Convolutional Neural Networks*](https://www.youtube.com/watch?v=czh68ShwsVk)
+
+### 📚 **Or Explore the Full Lecture Series**
+
+- ☝️ [AI for All 1: Introduction to Artificial Intelligence](https://moodle.ki-campus.org/course/view.php?id=99)
+- ✌️ [AI for All 2: Understanding, Evaluating, Reflecting](https://moodle.ki-campus.org/course/view.php?id=111)
