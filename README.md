@@ -1,27 +1,27 @@
 ## 👋️ Profile
 
-I am a PhD candidate at Heinrich Heine University, Düsseldorf (defense scheduled for late 2025), researcher at the Heine Center for Artificial Intelligence and Data Science (HeiCAD) and a guest researcher at GESIS the Leibniz Institute for the Social Sciences.
+I am a Ph.D. candidate at Heinrich Heine University Düsseldorf (defense scheduled for late 2025), a researcher at the Heine Center for Artificial Intelligence and Data Science (HeiCAD), and a guest researcher at GESIS, the Leibniz Institute for the Social Sciences.
 
-My research focuses on Natural Language Processing (NLP), Machine Learning (ML), and Large Language Models (LLMs), with a particular emphasis on argumentation, social media analysis, and the development of LLMs capable of human-like reasoning, language understanding, and cross-domain generalization.
+My research focuses on Natural Language Processing (NLP), Machine Learning (ML), and Large Language Models (LLMs), with particular emphasis on argumentation, social media analysis, and the development of LLMs capable of human-like reasoning, language understanding, and cross-domain generalization.
 
-In addition to my academic work, I actively contribute to the HeiCAD initiative 'AI for All', which is committed to accessible and inclusive education about Artificial Intelligence (AI) for everyone.
+In addition to my academic work, I actively contribute as a partner to the HeiCAD initiative "AI for All," which is committed to accessible and inclusive education about Artificial Intelligence (AI) for everyone.
 
-Motivated by my interest in language, communication, and culture, I have been learning Thai weekly at a local language school since the start of my PhD in 2021.
+Motivated by my interest in language, communication, and culture, I have been learning Thai weekly at a local language school since the start of my Ph.D. in 2021.
 
 ---
 
 ## 🎓 Education
 
-**PhD in Computer Science**  
-*2021 – Present* @ *Heinrich Heine University, Düsseldorf*   
+**Ph.D. in Computer Science**  
+*2021–Present* | *Heinrich Heine University Düsseldorf*   
 (Expected defense: Late 2025)
 
 **M.Sc. in Computer Science**  
-*2019 – 2021* @ *Heinrich Heine University, Düsseldorf*   
+*2019–2021* | *Heinrich Heine University Düsseldorf*   
 **Final Grade:** 1.1 (*Very Good*)
 
 **B.Sc. in Computer Science**  
-*2016 – 2019* @ *Heinrich Heine University, Düsseldorf*   
+*2016–2019* | *Heinrich Heine University Düsseldorf*   
 **Final Grade:** 2.5 (*Good*)
 
 ---
@@ -29,19 +29,19 @@ Motivated by my interest in language, communication, and culture, I have been le
 ## 💼 Professional Experience
 
 **Research Associate**  
-*2021 – Present* @ *Heinrich Heine University Düsseldorf*  
-- Partner of the 'AI for All' e-learning initiative  
+*2021–Present* | *Heinrich Heine University Düsseldorf*  
+- Partner in the **"AI for All"** e-learning initiative 
 - Lecturer: *Computer Science for Non-Computer Scientists*
 
 **Research Assistant**  
-*2019 – 2021* @ *Heinrich Heine University Düsseldorf*  
-- Python Developer, Institute for Internet and Democracy (DIID)  
+*2019–2021* | *Heinrich Heine University Düsseldorf*  
+- Python Developer, Institute for Computer Networks and Communication Systems  
 - Lecturer: *Computer Science for Non-Computer Scientists*
 
 **Student Assistant**  
-*2016 – 2019* @ *Heinrich Heine University Düsseldorf*  
-- Python Developer, Institute for Internet and Democracy (DIID)  
-- Instructor: *Java Development*, *C and NASM-Assembler*
+*2016–2019* | *Heinrich Heine University Düsseldorf*  
+- Python Developer, Institute for Computer Networks and Communication Systems  
+- Instructor: *Java Development*, *C and NASM Assembler*
 
 ---
 
@@ -66,7 +66,7 @@ Motivated by my interest in language, communication, and culture, I have been le
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)  
-<sub>Also worked with: LangChain, LoRA, NLTK, NumPy, PEFT, RAG, pandas</sub>
+<sub>Also worked with: LoRA, NLTK, NumPy, PEFT, RAG, pandas</sub>
 
 ---
 
@@ -116,13 +116,12 @@ Motivated by my interest in language, communication, and culture, I have been le
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-
 ---
 
 ## 🌐 Languages
 
 - **German** 🇩🇪 – Native  
-- **English** 🇬🇧 🇺🇸– Fluent  
+- **English** 🇬🇧 🇺🇸 – Fluent  
 - **Thai** 🇹🇭 – Basic
 
 ---
@@ -130,13 +129,13 @@ Motivated by my interest in language, communication, and culture, I have been le
 ## 📚 Publications
 
 🥇 **Top-Tier Conferences & Journals**  
-- Feger, M., Boland, K., & Dietze, S. (2025). *Limited Generalizability in Argument Mining*. ACL 2025 (To be published).
+- Feger, M., Boland, K., & Dietze, S. (2025). *Limited Generalizability in Argument Mining*. ACL 2025 *(To be published)*.
 - Weber, S., Feger, M., & Pilgermann, M. (2024). [*A Unified Evaluation Approach for LLM Honeypots*](https://doi.org/10.1109/ACCESS.2024.3472460). IEEE Access.
 - Feger, M., & Dietze, S. (2024). [*BERTweet’s TACO Fiesta: Argument Mining on Twitter*](https://doi.org/10.18653/v1/2024.findings-naacl.146). NAACL 2024.
 - Feger, M., & Dietze, S. (2024). [*TACO — Twitter Arguments from Conversations*](https://aclanthology.org/2024.lrec-main.1349/). LREC-COLING 2024.
 
 🥈 **Other Peer-Reviewed Publications**  
-- Braun, M., & Feger, M. (2025). *TextLabel: A Web App for Text Annotation*. HCII 2025 (To be published).
+- Braun, M., & Feger, M. (2025). *TextLabel: A Web App for Text Annotation*. HCII 2025 *(To be published)*.
 - Zelle, Y., Grison, T., & Feger, M. (2023). [*SciTok – Web Scraping Tool for Social Science*](https://doi.org/10.1007/978-3-031-49212-9_14). HCII 2023.
 - Steimann, J., Feger, M., & Mauve, M. (2022). [*Inspiring Perspectives in Comment Sections*](https://doi.org/10.1007/978-3-031-06424-1_10). HCII 2022.
 - Feger, M., Steimann, J., & Meter, C. (2020). [*Structure or Content? Argument Relevance*](https://doi.org/10.3233/FAIA200505). COMMA 2020.
