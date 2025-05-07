@@ -30,7 +30,7 @@ Motivated by my interest in language, communication, and culture, I have been le
 
 **Research Associate**  
 *2021–Present* | *Heinrich Heine University Düsseldorf*  
-- Partner in the **"AI for All"** e-learning initiative 
+- Partner in the e-learning initiative "AI for All" 
 - Lecturer: *Computer Science for Non-Computer Scientists*
 
 **Research Assistant**  
