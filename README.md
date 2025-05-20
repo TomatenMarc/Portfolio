@@ -45,6 +45,44 @@ Motivated by my interest in language, communication, and culture, I have been le
 
 ---
 
+## 📚 Publications
+
+🥇 **Top-Tier Conferences & Journals**  
+- Feger, M., Boland, K., & Dietze, S. (2025). *Limited Generalizability in Argument Mining*. ACL 2025 *(To be published)*.
+- Weber, S., Feger, M., & Pilgermann, M. (2024). [*A Unified Evaluation Approach for LLM Honeypots*](https://doi.org/10.1109/ACCESS.2024.3472460). IEEE Access.
+- Feger, M., & Dietze, S. (2024). [*BERTweet’s TACO Fiesta: Argument Mining on Twitter*](https://doi.org/10.18653/v1/2024.findings-naacl.146). NAACL 2024.
+- Feger, M., & Dietze, S. (2024). [*TACO — Twitter Arguments from Conversations*](https://aclanthology.org/2024.lrec-main.1349/). LREC-COLING 2024.
+
+🥈 **Other Peer-Reviewed Publications**  
+- Braun, M., & Feger, M. (2025). *TextLabel: A Web App for Text Annotation*. HCII 2025 *(To be published)*.
+- Zelle, Y., Grison, T., & Feger, M. (2023). [*SciTok – Web Scraping Tool for Social Science*](https://doi.org/10.1007/978-3-031-49212-9_14). HCII 2023.
+- Steimann, J., Feger, M., & Mauve, M. (2022). [*Inspiring Perspectives in Comment Sections*](https://doi.org/10.1007/978-3-031-06424-1_10). HCII 2022.
+- Feger, M., Steimann, J., & Meter, C. (2020). [*Structure or Content? Argument Relevance*](https://doi.org/10.3233/FAIA200505). COMMA 2020.
+
+---
+
+## 🎓✨ Featured AI Education Videos
+
+🌱 **Machine Learning & Sustainability Tools**
+
+<div style="padding:56.25% 0 0 0;position:relative; text-align: center; margin-bottom: 1.2em;"><iframe src="https://player.vimeo.com/video/980543329?
+h=5501d3a2bc&amp;badge=0&amp;
+autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="05_05Transfer_Nachhaltigkeitstools"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+🎥 **Watch More of my AI Learning Videos**
+
+- 🤖 [*Explainable, Hybrid, and Robust AI*](https://moodle.ki-campus.org/mod/page/view.php?id=16591)
+- 👩‍💻 [*Programming Neural Networks from Scratch*](https://www.youtube.com/watch?v=7-hP8FSIPLE)
+- 📝 [*Text Processing with Transformers*](https://www.youtube.com/watch?v=wYVeXXVtSQ8)
+- 🖼️ [*Image Processing with Convolutional Neural Networks*](https://www.youtube.com/watch?v=czh68ShwsVk)
+
+📚 **Or Explore the Full Lecture Series**
+
+- ☝️ [AI for All 1: Introduction to Artificial Intelligence](https://moodle.ki-campus.org/course/view.php?id=99)
+- ✌️ [AI for All 2: Understanding, Evaluating, Reflecting](https://moodle.ki-campus.org/course/view.php?id=111)
+
+---
+
 ## 🧪 Skills
 
 💻 **Programming Languages & Scripting**  
@@ -66,7 +104,7 @@ Motivated by my interest in language, communication, and culture, I have been le
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)  
-<sub>Also worked with: LoRA, NLTK, NumPy, PEFT, RAG, pandas</sub>
+<sub>Also worked with: Lightning AI, LoRA, NLTK, NumPy, pandas, PEFT, RAG, Snorkel AI</sub>
 
 ---
 
@@ -126,22 +164,6 @@ Motivated by my interest in language, communication, and culture, I have been le
 
 ---
 
-## 📚 Publications
-
-🥇 **Top-Tier Conferences & Journals**  
-- Feger, M., Boland, K., & Dietze, S. (2025). *Limited Generalizability in Argument Mining*. ACL 2025 *(To be published)*.
-- Weber, S., Feger, M., & Pilgermann, M. (2024). [*A Unified Evaluation Approach for LLM Honeypots*](https://doi.org/10.1109/ACCESS.2024.3472460). IEEE Access.
-- Feger, M., & Dietze, S. (2024). [*BERTweet’s TACO Fiesta: Argument Mining on Twitter*](https://doi.org/10.18653/v1/2024.findings-naacl.146). NAACL 2024.
-- Feger, M., & Dietze, S. (2024). [*TACO — Twitter Arguments from Conversations*](https://aclanthology.org/2024.lrec-main.1349/). LREC-COLING 2024.
-
-🥈 **Other Peer-Reviewed Publications**  
-- Braun, M., & Feger, M. (2025). *TextLabel: A Web App for Text Annotation*. HCII 2025 *(To be published)*.
-- Zelle, Y., Grison, T., & Feger, M. (2023). [*SciTok – Web Scraping Tool for Social Science*](https://doi.org/10.1007/978-3-031-49212-9_14). HCII 2023.
-- Steimann, J., Feger, M., & Mauve, M. (2022). [*Inspiring Perspectives in Comment Sections*](https://doi.org/10.1007/978-3-031-06424-1_10). HCII 2022.
-- Feger, M., Steimann, J., & Meter, C. (2020). [*Structure or Content? Argument Relevance*](https://doi.org/10.3233/FAIA200505). COMMA 2020.
-
----
-
 ## 💻 Selected GitHub Projects
 
 <div style="text-align: center; margin-bottom: 1.3em">
@@ -161,25 +183,3 @@ Motivated by my interest in language, communication, and culture, I have been le
     <img src="https://gh-card.dev/repos/TomatenMarc/A-Social-Network.svg" />
   </a>
 </div>
-
----
-
-## 🎓✨ Featured AI Education Videos
-
-🌱 **Machine Learning & Sustainability Tools**
-
-<div style="padding:56.25% 0 0 0;position:relative; text-align: center; margin-bottom: 1.2em;"><iframe src="https://player.vimeo.com/video/980543329?
-h=5501d3a2bc&amp;badge=0&amp;
-autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="05_05Transfer_Nachhaltigkeitstools"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-🎥 **Watch More of my AI Learning Videos**
-
-- 🤖 [*Explainable, Hybrid, and Robust AI*](https://moodle.ki-campus.org/mod/page/view.php?id=16591)
-- 👩‍💻 [*Programming Neural Networks from Scratch*](https://www.youtube.com/watch?v=7-hP8FSIPLE)
-- 📝 [*Text Processing with Transformers*](https://www.youtube.com/watch?v=wYVeXXVtSQ8)
-- 🖼️ [*Image Processing with Convolutional Neural Networks*](https://www.youtube.com/watch?v=czh68ShwsVk)
-
-📚 **Or Explore the Full Lecture Series**
-
-- ☝️ [AI for All 1: Introduction to Artificial Intelligence](https://moodle.ki-campus.org/course/view.php?id=99)
-- ✌️ [AI for All 2: Understanding, Evaluating, Reflecting](https://moodle.ki-campus.org/course/view.php?id=111)
