@@ -48,14 +48,13 @@ Motivated by my interest in language, communication, and culture, I have been le
 ## 📚 Publications
 
 🥇 **Top-Tier Conferences & Journals**  
-- Feger, M., Boland, K., & Dietze, S. (2025). [*Limited Generalizability in Argument Mining*](https://arxiv.org/abs/2505.22137). ACL 2025 *(To be 
-  published, pre-print available)*.
+- Feger, M., Boland, K., & Dietze, S. (2025). [*Limited Generalizability in Argument Mining*](https://arxiv.org/abs/2505.22137). ACL 2025.
 - Weber, S., Feger, M., & Pilgermann, M. (2024). [*A Unified Evaluation Approach for LLM Honeypots*](https://doi.org/10.1109/ACCESS.2024.3472460). IEEE Access.
 - Feger, M., & Dietze, S. (2024). [*BERTweet’s TACO Fiesta: Argument Mining on Twitter*](https://doi.org/10.18653/v1/2024.findings-naacl.146). NAACL 2024.
 - Feger, M., & Dietze, S. (2024). [*TACO — Twitter Arguments from Conversations*](https://aclanthology.org/2024.lrec-main.1349/). LREC-COLING 2024.
 
 🥈 **Other Peer-Reviewed Publications**  
-- Braun, M., & Feger, M. (2025). *TextLabel: A Web App for Text Annotation*. HCII 2025 *(To be published)*.
+- Braun, M., & Feger, M. (2025). [*TextLabel: A Web App for Text Annotation*](https://link.springer.com/chapter/10.1007/978-3-031-94171-9_21). HCII 2025.
 - Zelle, Y., Grison, T., & Feger, M. (2023). [*SciTok – Web Scraping Tool for Social Science*](https://doi.org/10.1007/978-3-031-49212-9_14). HCII 2023.
 - Steimann, J., Feger, M., & Mauve, M. (2022). [*Inspiring Perspectives in Comment Sections*](https://doi.org/10.1007/978-3-031-06424-1_10). HCII 2022.
 - Feger, M., Steimann, J., & Meter, C. (2020). [*Structure or Content? Argument Relevance*](https://doi.org/10.3233/FAIA200505). COMMA 2020.
