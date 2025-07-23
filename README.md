@@ -48,7 +48,7 @@ Motivated by my interest in language, communication, and culture, I have been le
 ## 📚 Publications
 
 🥇 **Top-Tier Conferences & Journals**  
-- Feger, M., Boland, K., & Dietze, S. (2025). [*Limited Generalizability in Argument Mining*](https://arxiv.org/abs/2505.22137). ACL 2025.
+- Feger, M., Boland, K., & Dietze, S. (2025). [*Limited Generalizability in Argument Mining*](https://aclanthology.org/2025.acl-long.1164/). ACL 2025.
 - Weber, S., Feger, M., & Pilgermann, M. (2024). [*A Unified Evaluation Approach for LLM Honeypots*](https://doi.org/10.1109/ACCESS.2024.3472460). IEEE Access.
 - Feger, M., & Dietze, S. (2024). [*BERTweet’s TACO Fiesta: Argument Mining on Twitter*](https://doi.org/10.18653/v1/2024.findings-naacl.146). NAACL 2024.
 - Feger, M., & Dietze, S. (2024). [*TACO — Twitter Arguments from Conversations*](https://aclanthology.org/2024.lrec-main.1349/). LREC-COLING 2024.
