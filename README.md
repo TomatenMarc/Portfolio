@@ -45,6 +45,11 @@ Motivated by my interest in language, communication, and culture, I have been le
 
 ---
 
+## 🤓 Committee Lead
+🤺 Feger, M., Boland, K., Romberg, J., & Dietze, S. (2026). [*Generalizability of Argument Identification in Context*](https://touche.webis.de/clef26/touche26-web/generalizable-argument-mining.html). CLEF 2026.
+
+---
+
 ## 📚 Publications
 
 🥇 **Top-Tier Conferences & Journals**  
