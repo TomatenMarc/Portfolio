@@ -1,6 +1,7 @@
 ## 👋️ Profile
 
-I am a Ph.D. candidate at Heinrich Heine University Düsseldorf (defense scheduled for late 2025), a researcher at the Heine Center for Artificial Intelligence and Data Science (HeiCAD), and a guest researcher at GESIS, the Leibniz Institute for the Social Sciences.
+I am a Ph.D. candidate at Heinrich Heine University Düsseldorf (defense scheduled for spring 2026), a researcher at the Heine Center for Artificial 
+Intelligence and Data Science (HeiCAD), and a guest researcher at GESIS, the Leibniz Institute for the Social Sciences.
 
 My research focuses on Natural Language Processing (NLP), Machine Learning (ML), and Large Language Models (LLMs), with particular emphasis on argumentation, social media analysis, and the development of LLMs capable of human-like reasoning, language understanding, and cross-domain generalization.
 
