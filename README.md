@@ -14,7 +14,7 @@ Motivated by my interest in language, communication, and culture, I have been le
 
 **Ph.D. in Computer Science**  
 *2021–Present* | *Heinrich Heine University Düsseldorf*   
-(Expected defense: Late 2025)
+(Expected defense: Spring 2025)
 
 **M.Sc. in Computer Science**  
 *2019–2021* | *Heinrich Heine University Düsseldorf*   
