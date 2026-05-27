@@ -1,20 +1,18 @@
 ## 👋️ Profile
 
-I am a Ph.D. candidate at Heinrich Heine University Düsseldorf (defense scheduled for spring 2026), a researcher at the Heine Center for Artificial Intelligence and Data Science (HeiCAD), and a guest researcher at GESIS, the Leibniz Institute for the Social Sciences.
+I am a postdoc at Heinrich Heine University Düsseldorf, a researcher at the Heine Center for Artificial Intelligence and Data Science (HeiCAD), and a guest researcher at GESIS, the Leibniz Institute for the Social Sciences.
 
 My research focuses on Natural Language Processing (NLP), Machine Learning (ML), and Large Language Models (LLMs), with particular emphasis on argumentation, social media analysis, and the development of LLMs capable of human-like reasoning, language understanding, and cross-domain generalization.
 
 In addition to my academic work, I actively contribute as a partner to the HeiCAD initiative "AI for All," which is committed to accessible and inclusive education about Artificial Intelligence (AI) for everyone.
-
-Motivated by my interest in language, communication, and culture, I have been learning Thai weekly at a local language school since the start of my Ph.D. in 2021.
 
 ---
 
 ## 🎓 Education
 
 **Ph.D. in Computer Science**  
-*2021–Present* | *Heinrich Heine University Düsseldorf*   
-(Expected defense: Spring 2025)
+*2021–2026* | *Heinrich Heine University Düsseldorf*   
+**Final Grade:** 0.5 (*Summa Cum Laude*)
 
 **M.Sc. in Computer Science**  
 *2019–2021* | *Heinrich Heine University Düsseldorf*   
@@ -51,6 +49,9 @@ Motivated by my interest in language, communication, and culture, I have been le
 ---
 
 ## 📚 Publications
+
+🎓 **Dissertation**
+- Feger, M. (2026). [*The Limits of Progress: Understanding the Performance of State-of-the-Art Language Models in Argument Mining*](https://docserv.uni-duesseldorf.de/servlets/DocumentServlet?id=73263). ULB 2026.
 
 🥇 **Top-Tier Conferences & Journals**  
 - Feger, M., Boland, K., & Dietze, S. (2025). [*Limited Generalizability in Argument Mining*](https://aclanthology.org/2025.acl-long.1164/). ACL 2025.
