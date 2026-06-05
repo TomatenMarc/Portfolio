@@ -133,5 +133,3 @@ autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; f
 - **German** 🇩🇪 – Native
 - **English** 🇬🇧 🇺🇸 – Full Professional Proficiency
 - **Thai** 🇹🇭 – Conversational Proficiency
-
----
