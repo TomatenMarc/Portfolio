@@ -64,7 +64,7 @@ My long-term research vision is to contribute to the development of AI systems t
 - **2026** - [*The Limits of Progress: Understanding the Performance of State-of-the-Art Language Models in Argument Mining*](https://docserv.uni-duesseldorf.de/servlets/DocumentServlet?id=73263).<br>**Grade**: 0.5 (*Summa Cum Laude ≈ GPA 4.0 of 4.0*)<br>
 
 🔬 **Master's Thesis**
-- **2021** - [*Online Argumentation and Social Media: What They Can Learn from Each Other*](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fdoi.org%2F10.13140%2FRG.2.2.26976.81926&urlhash=nWnx&mt=oMyYVCgiDF3847yNaSByg2ELdMSHy7wGv_99u-QDdpMohpmDsaqKbyLQ30kvJiFXQm-qEe1PdWeX5BDx6mz4oiWQgCWM&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_publications_details%3BTmx41GljRlmNO8oyr82WUw%3D%3D).<br>**Grade**: 1.0 (*Very Good ≈ GPA 3.7 - 4.0 of 4.0*)<br>
+- **2021** - [*Online Argumentation and Social Media: What They Can Learn from Each Other*](https://doi.org/10.13140/RG.2.2.26976.81926).<br>**Grade**: 1.0 (*Very Good ≈ GPA 3.7 - 4.0 of 4.0*)<br>
 
 📝 **Bachelor's Thesis**
 - **2018** - [*Comparison of Recommendation Systems*](https://dbs.cs.uni-duesseldorf.de/lehre/bmarbeit/barbeiten/ba_feger.pdf).<br>**Grade**: 1.0 (*Very Good ≈ GPA 3.7 - 4.0 of 4.0*)<br>
