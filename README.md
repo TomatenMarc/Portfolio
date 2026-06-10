@@ -86,17 +86,28 @@ My long-term research vision is to contribute to the development of AI systems t
 
 ## 🎓✨ Featured AI Education Videos
 
-🌱 **Machine Learning & Sustainability Tools**
-
-<div style="padding:56.25% 0 0 0;position:relative; text-align: center; margin-bottom: 1.2em;"><iframe src="https://player.vimeo.com/video/980543329?
-h=5501d3a2bc&amp;badge=0&amp;
-autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="05_05Transfer_Nachhaltigkeitstools"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+🌱 **Foundations of Machine Learning and Transformer Models**
+<div style="padding:56.25% 0 0 0;position:relative;margin-bottom:1.2em;">
+  <iframe
+    src="https://av.tib.eu/player/72663"
+    allow="fullscreen"
+    loading="lazy"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    title="Video">
+  </iframe>
+</div>
 
 🎥 **Watch More of my AI Education Videos**
 
-- [*Programming Neural Networks from Scratch*](https://www.youtube.com/watch?v=7-hP8FSIPLE)
-- [*Text Processing with Transformers*](https://www.youtube.com/watch?v=wYVeXXVtSQ8)
-- [*Image Processing with Convolutional Neural Networks*](https://www.youtube.com/watch?v=czh68ShwsVk)
+- [*Theory - Text Processing*](https://doi.org/10.5446/65491)
+- [*Programming - Text Processing*](https://doi.org/10.5446/65490)
+- [*Programming - Neural Networks*](https://doi.org/10.5446/65488)
+- [*Programming - Image Processing*](https://doi.org/10.5446/65487)
+- [*Practical Examples of Application - Argument Mining on Twitter*](https://doi.org/10.5446/65489)
+- [*A Brief Introduction to SHAP*](https://doi.org/10.5446/72664)
+- [*Machine Learning Sustainability Tools*](https://doi.org/10.5446/72781)
+- [*Interpretable Machine Learning*](https://doi.org/10.5446/72660)
+- [*Taxonomy of Methods for Interpretability*](https://doi.org/10.5446/72662)
 
 📚 **Or Explore the Full Lecture Series**
 
