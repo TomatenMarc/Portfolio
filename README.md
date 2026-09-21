@@ -70,6 +70,7 @@ My long-term research vision is to contribute to the development of AI systems t
 - **2018** - [*Comparison of Recommendation Systems*](https://dbs.cs.uni-duesseldorf.de/lehre/bmarbeit/barbeiten/ba_feger.pdf).<br>**Grade**: 1.0 (*Very Good ≈ GPA 3.7 - 4.0 of 4.0*)<br>
 
 🥇 **Top-Tier Conferences & Journals**
+- **CLEF 2026** - [*Overview of Touché 2026: Argumentation Systems (Extended)*](https://link.springer.com/chapter/10.1007/978-3-032-39150-6_37).<br>Kiesel, J., Feger, M., Hagen, T., Heineking, S., Heinrich, M., Fröbe, M., Boland, K., Pertsch, W., Romberg, J., Zelch, I., Dietze, S., Hagen, M., Potthast, M., & Stein, B.<br>
 - **ECIR 2026** - [*Overview of Touché 2026: Argumentation Systems*](https://doi.org/10.1007/978-3-032-21321-1_38).<br>Kiesel, J., Feger, M., Hagen, T., Heineking, S., Heinrich, M., Fröbe, M., Boland, K., Pertsch, W., Romberg, J., Zelch, I., Dietze, S., Hagen, M., Potthast, M., & Stein, B.<br>
 - **ACL 2025** - [*Limited Generalizability in Argument Mining: State-Of-The-Art Models Learn Datasets, Not Arguments*](https://aclanthology.org/2025.acl-long.1164/).<br>Feger, M., Boland, K., & Dietze, S.<br>
 - **IEEE Access 2024** - [*Don’t Stop Believin’: A Unified Evaluation Approach for LLM Honeypots*](https://doi.org/10.1109/ACCESS.2024.3472460).<br>Weber, S., Feger, M., & Pilgermann, M.<br>
