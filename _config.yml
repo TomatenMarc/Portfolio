@@ -3,3 +3,6 @@ theme: jekyll-theme-minimal
 logo: assets/img/headshot_circle.png
 description: Scientist | AI & NLP Researcher
 location: Düsseldorf, Germany
+
+include:
+  - llms.txt
