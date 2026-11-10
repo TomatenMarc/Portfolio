@@ -58,6 +58,12 @@ My long-term research vision is to contribute to the development of AI systems t
 
 ---
 
+## 🎤 Invited Talk
+- **Leibniz University Hannover (November 10, 2026)** - [*More than Words: Understanding the Challenges of Argument Identification for State-of-the-Art Language 
+  Models*](https://www.ai.uni-hannover.de/institut/neuigkeiten/aktuelles-detailansicht/news/invited-talk-by-dr-marc-feger-on-november-10).<br>Invited by Prof. Henning Wachsmuth to present at the Oberseminar of the Natural Language Processing Group at the Institute of Artificial Intelligence.<br>
+
+---
+
 ## 📚 Publications
 
 🎓 **Dissertation**
